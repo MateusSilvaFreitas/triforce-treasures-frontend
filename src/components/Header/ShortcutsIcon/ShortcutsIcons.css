@@ -1,0 +1,13 @@
+.icon-heart, .icon-basket{
+    font-size: 25px;
+}
+
+.icon-heart:hover{
+    color: #F00;
+    transition: 0.2s;
+}
+
+.icon-basket:hover{
+    color: #FF0;
+    transition: 0.2s;
+}

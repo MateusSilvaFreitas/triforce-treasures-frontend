@@ -1,0 +1,15 @@
+.input-search{
+    background-color: #393939;
+    border: none;
+    height: 48px;
+    width: 60%;
+    font-size: 18px;
+    color:white;
+    font-family: "Roboto";
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.input-search:focus{
+    outline: none;
+}
